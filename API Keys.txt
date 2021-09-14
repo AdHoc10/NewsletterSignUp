@@ -1,5 +1,0 @@
-// API Key
-// b9049c9c7406e21cf6bb426418e76840-us5
-
-// List ID
-// a655f72f5a
